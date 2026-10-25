@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="200" viewBox="0 0 840 200" role="img" aria-labelledby="title">
+  <title id="title">jrdaniels.net</title>
+  <rect width="840" height="200" fill="#c2d3d0"/>
+  <path d="M16 16h812v172H16z" fill="#171717"/>
+  <path d="M12 12h812v172H12z" fill="#fff" stroke="#171717" stroke-width="2"/>
+  <path d="M24 23h788M24 27h788M24 31h788M24 35h788M24 39h788" fill="none" stroke="#171717"/>
+  <path d="M12 48h812" stroke="#171717" stroke-width="2"/>
+  <g transform="translate(168.683 84) scale(2)"><g fill="#111" shape-rendering="crispEdges"><path d="M7 2h18v23H7z" fill="white"/><path d="M5 0h22v27H5zM7 2v23h18V2z" fill-rule="evenodd"/><path d="M9 5h14v13H9zM12 21h8v2h-8zM3 28h26v3H3z"/><path d="M11 7h10v9H11z" fill="white"/><path d="M13 9h2v2h-2zM18 9h2v2h-2zM14 13h5v1h-5z"/></g></g>
+  <g fill="#171717" transform="translate(262.683 134.467) scale(0.07116564 -0.07116564)">
+    <path transform="translate(0 0)" d="M153 667H301V592H153ZM153 518H301V-74H227V-148H5V-74H153ZM-69 0H5V-74H-69Z"/><path transform="translate(355 0)" d="M276 518H424V370H202V0H54V518H202V444H276Z"/><path transform="translate(823 0)" d="M350 667H498V0H128V74H54V444H128V518H350ZM202 74H350V444H202Z"/><path transform="translate(1374 0)" d="M424 444H498V0H128V74H54V222H128V296H350V444H128V518H424ZM202 74H350V222H202ZM54 370V444H128V370Z"/><path transform="translate(1925 0)" d="M424 444H498V0H350V444H202V0H54V518H424Z"/><path transform="translate(2476 0)" d="M54 667H202V592H54ZM54 518H202V0H54Z"/><path transform="translate(2731 0)" d="M498 148V74H424V148ZM424 444H498V222H202V74H424V0H128V74H54V444H128V518H424ZM202 296H350V444H202Z"/><path transform="translate(3282 0)" d="M54 667H202V0H54Z"/><path transform="translate(3537 0)" d="M424 370H350V444H424ZM128 518H350V444H202V370H276V296H350V222H424V74H350V0H128V74H276V148H202V222H128V296H54V444H128ZM54 148H128V74H54Z"/><path transform="translate(4015 0)" d="M54 148H202V0H54Z"/><path transform="translate(4270 0)" d="M424 444H498V0H350V444H202V0H54V518H424Z"/><path transform="translate(4821 0)" d="M498 148V74H424V148ZM424 444H498V222H202V74H424V0H128V74H54V444H128V518H424ZM202 296H350V444H202Z"/><path transform="translate(5372 0)" d="M251 444V74H325V0H177V74H103V444H29V518H103V667H251V518H325V444Z"/>
+  </g>
+</svg>
